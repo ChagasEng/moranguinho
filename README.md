@@ -1,6 +1,8 @@
 # Classificação de morangos com CNN + SVM
 
-Este repositório contém o experimento Python em [`experimento_lmfcn/`](experimento_lmfcn/) e usa a ideia do [LMFCN de Jonathan Matos](https://github.com/jonathandematos/lmfcn). O código de referência em `codigo_jonathan/` e as imagens em `Dataset/` não são incluídos no Git. 
+Este repositório contém o experimento Python em [`experimento_lmfcn/`](experimento_lmfcn/) e usa a ideia do [LMFCN de Jonathan Matos](https://github.com/jonathandematos/lmfcn). O código de referência está em [`codigo_jonathan/`](codigo_jonathan/). As imagens em `Dataset/` não são incluídas no Git.
+
+Os resultados obtidos até agora estão em [`resumo/`](resumo/README.md).
 
 ## 1. Clonar e baixar o Dataset
 
