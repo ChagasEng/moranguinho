@@ -1,0 +1,12 @@
+{
+  "FreshStrawberry": {
+    "removidas": 9,
+    "min_samples": 5,
+    "status": "ok"
+  },
+  "RottenStrawberry": {
+    "removidas": 1,
+    "min_samples": 5,
+    "status": "ok"
+  }
+}

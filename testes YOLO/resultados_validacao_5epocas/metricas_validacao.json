@@ -1,0 +1,102 @@
+[
+  {
+    "cenario": "Cenario1",
+    "metodo": "YOLO",
+    "sadios_treino": 510,
+    "danificados_treino": 510,
+    "removidas_dbscan": 0,
+    "acuracia_top1": 1.0,
+    "f1_macro": 1.0,
+    "recall_macro": 1.0
+  },
+  {
+    "cenario": "Cenario1",
+    "metodo": "YOLO + DBSCAN",
+    "sadios_treino": 480,
+    "danificados_treino": 508,
+    "removidas_dbscan": 32,
+    "acuracia_top1": 1.0,
+    "f1_macro": 1.0,
+    "recall_macro": 1.0
+  },
+  {
+    "cenario": "Cenario2",
+    "metodo": "YOLO",
+    "sadios_treino": 510,
+    "danificados_treino": 253,
+    "removidas_dbscan": 0,
+    "acuracia_top1": 1.0,
+    "f1_macro": 1.0,
+    "recall_macro": 1.0
+  },
+  {
+    "cenario": "Cenario2",
+    "metodo": "YOLO + DBSCAN",
+    "sadios_treino": 480,
+    "danificados_treino": 250,
+    "removidas_dbscan": 33,
+    "acuracia_top1": 1.0,
+    "f1_macro": 1.0,
+    "recall_macro": 1.0
+  },
+  {
+    "cenario": "Cenario3",
+    "metodo": "YOLO",
+    "sadios_treino": 253,
+    "danificados_treino": 510,
+    "removidas_dbscan": 0,
+    "acuracia_top1": 1.0,
+    "f1_macro": 1.0,
+    "recall_macro": 1.0
+  },
+  {
+    "cenario": "Cenario3",
+    "metodo": "YOLO + DBSCAN",
+    "sadios_treino": 237,
+    "danificados_treino": 508,
+    "removidas_dbscan": 18,
+    "acuracia_top1": 1.0,
+    "f1_macro": 1.0,
+    "recall_macro": 1.0
+  },
+  {
+    "cenario": "Cenario4",
+    "metodo": "YOLO",
+    "sadios_treino": 160,
+    "danificados_treino": 80,
+    "removidas_dbscan": 0,
+    "acuracia_top1": 1.0,
+    "f1_macro": 1.0,
+    "recall_macro": 1.0
+  },
+  {
+    "cenario": "Cenario4",
+    "metodo": "YOLO + DBSCAN",
+    "sadios_treino": 151,
+    "danificados_treino": 77,
+    "removidas_dbscan": 12,
+    "acuracia_top1": 1.0,
+    "f1_macro": 1.0,
+    "recall_macro": 1.0
+  },
+  {
+    "cenario": "Cenario5",
+    "metodo": "YOLO",
+    "sadios_treino": 80,
+    "danificados_treino": 160,
+    "removidas_dbscan": 0,
+    "acuracia_top1": 1.0,
+    "f1_macro": 1.0,
+    "recall_macro": 1.0
+  },
+  {
+    "cenario": "Cenario5",
+    "metodo": "YOLO + DBSCAN",
+    "sadios_treino": 75,
+    "danificados_treino": 156,
+    "removidas_dbscan": 9,
+    "acuracia_top1": 1.0,
+    "f1_macro": 1.0,
+    "recall_macro": 1.0
+  }
+]

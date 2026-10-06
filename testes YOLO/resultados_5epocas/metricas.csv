@@ -1,0 +1,11 @@
+cenario,metodo,sadios,danificados,removidas_dbscan,acuracia_top1,modelo,f1_macro,recall_macro
+Cenario1,YOLO,637,637,0,1.0,resultados_5epocas\treinos\Cenario1_yolo\weights\best.pt,1.0,1.0
+Cenario1,YOLO + DBSCAN,601,633,40,1.0,resultados_5epocas\treinos\Cenario1_yolo_dbscan\weights\best.pt,1.0,1.0
+Cenario2,YOLO,637,316,0,1.0,resultados_5epocas\treinos\Cenario2_yolo\weights\best.pt,1.0,1.0
+Cenario2,YOLO + DBSCAN,601,312,40,1.0,resultados_5epocas\treinos\Cenario2_yolo_dbscan\weights\best.pt,1.0,1.0
+Cenario3,YOLO,316,637,0,1.0,resultados_5epocas\treinos\Cenario3_yolo\weights\best.pt,1.0,1.0
+Cenario3,YOLO + DBSCAN,295,633,25,1.0,resultados_5epocas\treinos\Cenario3_yolo_dbscan\weights\best.pt,1.0,1.0
+Cenario4,YOLO,200,100,0,1.0,resultados_5epocas\treinos\Cenario4_yolo\weights\best.pt,1.0,1.0
+Cenario4,YOLO + DBSCAN,191,99,10,1.0,resultados_5epocas\treinos\Cenario4_yolo_dbscan\weights\best.pt,1.0,1.0
+Cenario5,YOLO,100,200,0,1.0,resultados_5epocas\treinos\Cenario5_yolo\weights\best.pt,1.0,1.0
+Cenario5,YOLO + DBSCAN,94,195,11,1.0,resultados_5epocas\treinos\Cenario5_yolo_dbscan\weights\best.pt,1.0,1.0

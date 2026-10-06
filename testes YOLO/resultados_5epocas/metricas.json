@@ -1,0 +1,112 @@
+[
+  {
+    "cenario": "Cenario1",
+    "metodo": "YOLO",
+    "sadios": 637,
+    "danificados": 637,
+    "removidas_dbscan": 0,
+    "acuracia_top1": 1.0,
+    "modelo": "resultados_5epocas\\treinos\\Cenario1_yolo\\weights\\best.pt",
+    "f1_macro": 1.0,
+    "recall_macro": 1.0
+  },
+  {
+    "cenario": "Cenario1",
+    "metodo": "YOLO + DBSCAN",
+    "sadios": 601,
+    "danificados": 633,
+    "removidas_dbscan": 40,
+    "acuracia_top1": 1.0,
+    "modelo": "resultados_5epocas\\treinos\\Cenario1_yolo_dbscan\\weights\\best.pt",
+    "f1_macro": 1.0,
+    "recall_macro": 1.0
+  },
+  {
+    "cenario": "Cenario2",
+    "metodo": "YOLO",
+    "sadios": 637,
+    "danificados": 316,
+    "removidas_dbscan": 0,
+    "acuracia_top1": 1.0,
+    "modelo": "resultados_5epocas\\treinos\\Cenario2_yolo\\weights\\best.pt",
+    "f1_macro": 1.0,
+    "recall_macro": 1.0
+  },
+  {
+    "cenario": "Cenario2",
+    "metodo": "YOLO + DBSCAN",
+    "sadios": 601,
+    "danificados": 312,
+    "removidas_dbscan": 40,
+    "acuracia_top1": 1.0,
+    "modelo": "resultados_5epocas\\treinos\\Cenario2_yolo_dbscan\\weights\\best.pt",
+    "f1_macro": 1.0,
+    "recall_macro": 1.0
+  },
+  {
+    "cenario": "Cenario3",
+    "metodo": "YOLO",
+    "sadios": 316,
+    "danificados": 637,
+    "removidas_dbscan": 0,
+    "acuracia_top1": 1.0,
+    "modelo": "resultados_5epocas\\treinos\\Cenario3_yolo\\weights\\best.pt",
+    "f1_macro": 1.0,
+    "recall_macro": 1.0
+  },
+  {
+    "cenario": "Cenario3",
+    "metodo": "YOLO + DBSCAN",
+    "sadios": 295,
+    "danificados": 633,
+    "removidas_dbscan": 25,
+    "acuracia_top1": 1.0,
+    "modelo": "resultados_5epocas\\treinos\\Cenario3_yolo_dbscan\\weights\\best.pt",
+    "f1_macro": 1.0,
+    "recall_macro": 1.0
+  },
+  {
+    "cenario": "Cenario4",
+    "metodo": "YOLO",
+    "sadios": 200,
+    "danificados": 100,
+    "removidas_dbscan": 0,
+    "acuracia_top1": 1.0,
+    "modelo": "resultados_5epocas\\treinos\\Cenario4_yolo\\weights\\best.pt",
+    "f1_macro": 1.0,
+    "recall_macro": 1.0
+  },
+  {
+    "cenario": "Cenario4",
+    "metodo": "YOLO + DBSCAN",
+    "sadios": 191,
+    "danificados": 99,
+    "removidas_dbscan": 10,
+    "acuracia_top1": 1.0,
+    "modelo": "resultados_5epocas\\treinos\\Cenario4_yolo_dbscan\\weights\\best.pt",
+    "f1_macro": 1.0,
+    "recall_macro": 1.0
+  },
+  {
+    "cenario": "Cenario5",
+    "metodo": "YOLO",
+    "sadios": 100,
+    "danificados": 200,
+    "removidas_dbscan": 0,
+    "acuracia_top1": 1.0,
+    "modelo": "resultados_5epocas\\treinos\\Cenario5_yolo\\weights\\best.pt",
+    "f1_macro": 1.0,
+    "recall_macro": 1.0
+  },
+  {
+    "cenario": "Cenario5",
+    "metodo": "YOLO + DBSCAN",
+    "sadios": 94,
+    "danificados": 195,
+    "removidas_dbscan": 11,
+    "acuracia_top1": 1.0,
+    "modelo": "resultados_5epocas\\treinos\\Cenario5_yolo_dbscan\\weights\\best.pt",
+    "f1_macro": 1.0,
+    "recall_macro": 1.0
+  }
+]

@@ -1,0 +1,11 @@
+cenario,metodo,sadios_treino,danificados_treino,removidas_dbscan,acuracia_top1,f1_macro,recall_macro
+Cenario1,YOLO,510,510,0,1.0,1.0,1.0
+Cenario1,YOLO + DBSCAN,480,508,32,1.0,1.0,1.0
+Cenario2,YOLO,510,253,0,1.0,1.0,1.0
+Cenario2,YOLO + DBSCAN,480,250,33,1.0,1.0,1.0
+Cenario3,YOLO,253,510,0,1.0,1.0,1.0
+Cenario3,YOLO + DBSCAN,237,508,18,1.0,1.0,1.0
+Cenario4,YOLO,160,80,0,1.0,1.0,1.0
+Cenario4,YOLO + DBSCAN,151,77,12,1.0,1.0,1.0
+Cenario5,YOLO,80,160,0,1.0,1.0,1.0
+Cenario5,YOLO + DBSCAN,75,156,9,1.0,1.0,1.0
