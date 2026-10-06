@@ -1,0 +1,7 @@
+Treino iniciado: Cenário 1, MobileNetV2, 5 épocas.
+Época 1/5 | loss=0.6271 | val_f1_macro=0.8749 | val_recall_macro=0.8750
+Época 2/5 | loss=0.4631 | val_f1_macro=0.9844 | val_recall_macro=0.9844
+Época 3/5 | loss=0.3262 | val_f1_macro=0.9844 | val_recall_macro=0.9844
+Época 4/5 | loss=0.2424 | val_f1_macro=0.9844 | val_recall_macro=0.9844
+Época 5/5 | loss=0.1599 | val_f1_macro=1.0000 | val_recall_macro=1.0000
+Teste final concluído. Relatório, métricas e matriz de confusão foram criados.

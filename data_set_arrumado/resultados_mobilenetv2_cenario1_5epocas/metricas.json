@@ -1,0 +1,11 @@
+{
+  "acuracia": 1.0,
+  "f1_macro": 1.0,
+  "recall_macro": 1.0,
+  "cenario": "Cenario1",
+  "modelo": "MobileNetV2",
+  "epocas": 5,
+  "teste_sadios": 40,
+  "teste_danificados": 40,
+  "pesos": "melhor.pt"
+}

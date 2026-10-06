@@ -1,0 +1,11 @@
+{
+  "cenario": "Cenario1",
+  "modelo": "YOLO11n-cls",
+  "epocas": 5,
+  "teste_sadios": 40,
+  "teste_danificados": 40,
+  "acuracia": 1.0,
+  "f1_macro": 1.0,
+  "recall_macro": 1.0,
+  "pesos": "resultados_yolo_cenario1_5epocas\\treinos\\yolo_cenario1\\weights\\best.pt"
+}

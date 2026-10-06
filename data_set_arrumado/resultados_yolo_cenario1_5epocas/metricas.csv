@@ -1,0 +1,2 @@
+cenario,modelo,epocas,teste_sadios,teste_danificados,acuracia,f1_macro,recall_macro,pesos
+Cenario1,YOLO11n-cls,5,40,40,1.0,1.0,1.0,resultados_yolo_cenario1_5epocas\treinos\yolo_cenario1\weights\best.pt

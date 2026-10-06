@@ -1,0 +1,2 @@
+acuracia,f1_macro,recall_macro,cenario,modelo,epocas,teste_sadios,teste_danificados,pesos
+1.0,1.0,1.0,Cenario1,MobileNetV2,5,40,40,melhor.pt
