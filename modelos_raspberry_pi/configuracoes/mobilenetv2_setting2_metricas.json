@@ -1,0 +1,15 @@
+{
+  "setting": "setting2",
+  "origem": "avaliação manual no teste externo",
+  "classes": [
+    "fresh",
+    "rotten"
+  ],
+  "pesos": "C:\\Users\\matheus\\Documents\\datasetmorangonovo\\resultados_mobilenetv2_settings\\treinos\\setting2\\best.pt",
+  "pesos_sha256": "47d519abf93ccde0b760c10e5ab5e2eeed96b1bd9ed0d8a22f43891f650922ad",
+  "n_imagens": 200,
+  "acuracia": 0.98,
+  "f1_macro": 0.979998,
+  "recall_macro": 0.98,
+  "acuracia_balanceada": 0.98
+}

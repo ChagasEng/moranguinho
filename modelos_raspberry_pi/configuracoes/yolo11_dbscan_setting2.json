@@ -1,0 +1,34 @@
+{
+  "metodo": "YOLO11n-cls + DBSCAN",
+  "setting": "setting2",
+  "classes": [
+    "fresh",
+    "rotten"
+  ],
+  "semente": 42,
+  "epocas": 3,
+  "batch": 32,
+  "imgsz": 224,
+  "dispositivo": "cpu",
+  "protocolo": "DBSCAN apenas no treino depois da divisão estratificada 80/20; validação e teste não foram filtrados.",
+  "pesos_iniciais": "C:\\Users\\matheus\\Documents\\artigo\\moranguinho\\yolo11n-cls.pt",
+  "pesos_avaliados": "C:\\Users\\matheus\\Documents\\datasetmorangonovo\\resultados_yolo_settings\\dbscan\\setting2\\treino\\weights\\best.pt",
+  "dbscan": {
+    "fresh": {
+      "imagens_antes": 480,
+      "imagens_mantidas": 452,
+      "removidas": 28,
+      "min_samples": 10,
+      "eps": 12.574530982971192,
+      "componentes_pca": 32
+    },
+    "rotten": {
+      "imagens_antes": 240,
+      "imagens_mantidas": 228,
+      "removidas": 12,
+      "min_samples": 5,
+      "eps": 13.1866605758667,
+      "componentes_pca": 32
+    }
+  }
+}

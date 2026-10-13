@@ -1,0 +1,29 @@
+{
+  "protocolo": "Melhor F1 macro dentro de cada arquitetura na comparação controlada do setting2.",
+  "classes": ["fresh", "rotten"],
+  "modelos": {
+    "yolo11_dbscan_setting2": {
+      "arquivo": "pesos/yolo11_dbscan_setting2_best.pt",
+      "f1_macro_teste": 0.989999,
+      "sha256": "4f50fbbcd1a375e065014e1de2d761237a057c42ace78928852211a1d7f5e90a"
+    },
+    "mobilenetv2_setting2": {
+      "arquivo": "pesos/mobilenetv2_setting2_best.pt",
+      "f1_macro_teste": 0.979998,
+      "sha256": "47d519abf93ccde0b760c10e5ab5e2eeed96b1bd9ed0d8a22f43891f650922ad"
+    },
+    "lmfcn_svm_dbscan_setting2": {
+      "arquivos": [
+        "pesos/lmfcn_dbscan_setting2_cnn.pt",
+        "pesos/lmfcn_dbscan_setting2_svm.joblib",
+        "pesos/lmfcn_dbscan_setting2_reference.npz"
+      ],
+      "f1_macro_teste": 0.469108,
+      "sha256": {
+        "cnn": "26ad881927973aa447f2a7c2f5a93744e6ea84cb6a0e66525f8236d2f646cffd",
+        "svm": "811b992b8f3aaf9a52b1bdf16a17a4ee50e181dd42a5c1960cf3c5dfe14c4263",
+        "reference": "f3de06901da2ff4b98968a6db9a5f5148fcbb823b927f0274e171110b46eed9d"
+      }
+    }
+  }
+}
