@@ -6,3 +6,6 @@
 /experimento_lmfcn/.venv/
 __pycache__/
 *.py[cod]
+.venv-yolo/
+.pytest_cache/
+.tools/
